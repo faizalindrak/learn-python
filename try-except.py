@@ -15,3 +15,4 @@ except:
     outputStr = 0
 print("Kedua ",outputStr)
 
+print("program selesai")
