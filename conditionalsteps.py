@@ -11,3 +11,4 @@ else:
     print("Angka pertama lebih kecil dari angka kedua")
 
 print("Code selesai")
+#comment3
