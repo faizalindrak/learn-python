@@ -1,4 +1,4 @@
-#program hitung lembur harian
+#program hitung lembur harian in progress
 gaji = input("Masukkan gaji : ")
 hariKerja = input("Masukkan total hari kerja dalam satu minggu :")
 jamLembur = input("Masukkan total jam lembur hari ini :")
